@@ -70,8 +70,13 @@ TO DO:
 
 - [x] Write README.md
 - [x] References
+- [x] Diagrams
 - [ ] Examples
 - [ ] Explore technologies
+
+## Architecture Diagram
+
+![Architecture Diagram](./docs/diagrams/base.png)
 
 ## References
 
